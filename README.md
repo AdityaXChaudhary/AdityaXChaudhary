@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h3>✨ Full-Stack Developer | Luxury UI Specialist ✨</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=28&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=Building+Timeless+Jewelry+Websites;Mastering+React+%26+Docker;Crafting+Digital+Elegance" alt="Typing SVG" />
+  <h3>✨ Full-Stack Developer</h3>
+  
 </div>
 
 ---
