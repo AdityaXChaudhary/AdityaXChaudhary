@@ -63,16 +63,13 @@
 
 ---
 
-### 🕹️ Git Activity Flow
-<div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github?username=AdityaXChaudhary&color_snake=%23b8860b&color_dots=%23111,%23333,%23b8860b,%23e6b800,%23fff" width="100%" />
-</div>
+
 
 ---
 
 <div align="center">
   <p><i>"Code is poetry, handled with precision."</i></p>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:adityachaudharyy.in@gmail.com">
     <img src="https://img.shields.io/badge/Contact_The_Developer-000000?style=for-the-badge&logo=mail&logoColor=B8860B" />
   </a>
 </div>
