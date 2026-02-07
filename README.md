@@ -40,6 +40,7 @@ I bridge the gap between **complex backend logic** and **high-end visual storyte
   <table border="0">
     <tr>
       <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AdityaXChaudhary&show_icons=true&theme=tokyonight&cache=1" width="100%" />
         <img src="https://github-readme-stats.vercel.app/api?username=AdityaXChaudhary&show_icons=true&theme=tokyonight&custom_title=Architect_Stats&font_family=Playfair+Display&title_color=B8860B&icon_color=B8860B&text_color=ffffff&bg_color=000000&hide_border=true" width="100%" />
       </td>
       <td width="50%">
