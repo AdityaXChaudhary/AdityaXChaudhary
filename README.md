@@ -31,19 +31,6 @@
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,docker,java,html,css,git,github,vscode,postman" />
 </div>
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaXChaudhary&show_icons=true&theme=tokyonight&title_color=B8860B&icon_color=B8860B&text_color=ffffff&bg_color=000000&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="General Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaXChaudhary&layout=compact&theme=tokyonight&title_color=B8860B&text_color=ffffff&bg_color=000000&hide_border=true" width="45%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaXChaudhary&theme=tokyonight&fire=B8860B&currStreakLabel=B8860B&background=000000&border=000000&hide_border=true" width="100%" alt="Current Streak" />
-</div>
-
 ---
 
 ### 💎 Featured Masterpiece
