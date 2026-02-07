@@ -18,9 +18,9 @@ I believe that code is the invisible thread that weaves a brand's story into rea
 
 ---
 
-### 🛠️ Core Arsenal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,docker,aws,figma&theme=dark" />
+### 🛠️ Tech Mastery
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,docker,java,html,css,git,github,vscode,postman" />
 </div>
 
 ---
