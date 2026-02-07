@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kakaon&color=000000&fontColor=B8860B&height=180&section=header&text=ADITYA%20CHAUDHARY&fontSize=80&desc=Full%20Stack%20Engineer%20%7C%20Digital%20Artisan&descSize=20&descAlignY=75" width="100%" />
 
   <br/>
 
@@ -10,8 +9,8 @@
 
 ---
 
-### 🏛️ The Creative Studio
-I bridge the gap between **complex backend logic** and **high-end visual storytelling**. Currently refining the digital footprint of luxury e-commerce.
+### 🏛️ Creative Studio: Noir & Gold
+I believe that code is the invisible thread that weaves a brand's story into reality. My studio is dedicated to **Digital Craftsmanship**—transforming chaotic complexity into elegant simplicity. From containerized microservices to gold-leafed UI transitions, I build for the "Wow" factor.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=24&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=Crafting+Premium+Digital+Experiences;Optimizing+Full-Stack+Architectures;Deploying+with+Docker+Precision" alt="Typing SVG" />
