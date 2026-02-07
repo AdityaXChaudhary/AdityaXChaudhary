@@ -32,9 +32,9 @@
 </div>
 
 ---
-### 🏆 Milestone Achievements
+### 📈 Contribution Momentum
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaXChaudhary&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaXChaudhary&theme=react-dark&bg_color=000000&color=B8860B&line=B8860B&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ### 💎 Featured Masterpiece
