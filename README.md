@@ -1,63 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Aditya%20Chaudhary&fontSize=70&animation=fadeIn&fontAlignY=38&theme=gold" />
+  <img src="https://capsule-render.vercel.app/render?type=kakaon&color=000000&fontColor=B8860B&height=180&section=header&text=ADITYA%20CHAUDHARY&fontSize=80&desc=Full%20Stack%20Engineer%20%7C%20Digital%20Artisan&descSize=20&descAlignY=75" width="100%" />
+
+  <br/>
+
+  <img src="https://img.shields.io/github/followers/AdityaXChaudhary?style=for-the-badge&logo=github&color=B8860B&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Focus-Luxury_UI-000000?style=for-the-badge&logo=react&logoColor=B8860B&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Building_Naksh_Jewels-000000?style=for-the-badge&logo=docker&logoColor=B8860B&labelColor=000000" />
 </div>
+
+---
+
+### 🏛️ The Creative Studio
+I bridge the gap between **complex backend logic** and **high-end visual storytelling**. Currently refining the digital footprint of luxury e-commerce.
 
 <div align="center">
-  <h3>✨ Full-Stack Developer</h3>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=24&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=Crafting+Premium+Digital+Experiences;Optimizing+Full-Stack+Architectures;Deploying+with+Docker+Precision" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 Featured Project: Naksh Jewels
-> **"Timeless Elegance, Digital Excellence."**
-> A premium e-commerce experience for fine jewelry, built with **React**, **Node.js**, and **Docker**.
-> [**View Repository →**](https://github.com/AdityaXChaudhary/naksh-jewels-project)
-
----
-
-### 🛠️ Tech Mastery
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,docker,java,html,css,git,github,vscode,postman" />
+### 🛠️ Core Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,docker,aws,figma&theme=dark" />
 </div>
 
 ---
 
-### 📊 Engineering Stats
+### 💎 Featured Masterpiece
+#### [Naksh Jewels — Timeless Luxury Boutique](https://github.com/AdityaXChaudhary/naksh-jewels-project)
+*A full-stack implementation of a high-end jewelry store.*
+- **Frontend:** React with specialized Gold-Leaf CSS animations.
+- **Infrastructure:** Multi-container orchestration via Docker.
+- **Design:** Minimalist, luxury-focused UI/UX.
+
+---
+
+### 📈 Performance Metrics
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AdityaXChaudhary&show_icons=true&theme=gold&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AdityaXChaudhary&show_icons=true&theme=tokyonight&custom_title=Architect_Stats&font_family=Playfair+Display&title_color=B8860B&icon_color=B8860B&text_color=ffffff&bg_color=000000&hide_border=true" width="100%" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaXChaudhary&layout=compact&theme=gold&hide_border=true" alt="Top Languages" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaXChaudhary&layout=compact&theme=tokyonight&font_family=Playfair+Display&title_color=B8860B&text_color=ffffff&bg_color=000000&hide_border=true" width="100%" />
       </td>
     </tr>
   </table>
   
-  <br />
+  <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaXChaudhary&theme=gold&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaXChaudhary&theme=tokyonight&fire=B8860B&currStreakLabel=B8860B&background=000000&border=000000&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 🎮 Coding Journey (Snake Animation)
+### 🕹️ Git Activity Flow
 <div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github?username=AdityaXChaudhary&color_snake=%23b8860b&color_dots=%23ebedf0,%23faeec7,%23f5d76e,%23b8860b,%238c6d00" alt="Snake Animation" />
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github?username=AdityaXChaudhary&color_snake=%23b8860b&color_dots=%23111,%23333,%23b8860b,%23e6b800,%23fff" width="100%" />
 </div>
 
 ---
 
-### 📬 Let's Collaborate
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaXChaudhary&color=gold&style=flat-square&label=PROFILE+VIEWS" />
+  <p><i>"Code is poetry, handled with precision."</i></p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Contact_The_Developer-000000?style=for-the-badge&logo=mail&logoColor=B8860B" />
+  </a>
 </div>
