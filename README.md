@@ -32,21 +32,10 @@
 </div>
 
 ---
----
-
-### 🏛️ Engineering Insights
+### 🏆 Milestone Achievements
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaXChaudhary&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&title_color=B8860B&icon_color=B8860B&text_color=ffffff&bg_color=000000&hide_border=true" width="48%" />
-  <img src="https://github-metrics.com/api/v1/metrics?user=AdityaXChaudhary&theme=dark&background=000000&color=B8860B" width="48%" alt="Detailed Metrics" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaXChaudhary&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="GitHub Trophies" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaXChaudhary&theme=react-dark&bg_color=000000&color=B8860B&line=B8860B&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
----
 
 ### 💎 Featured Masterpiece
 #### [Naksh Jewels — Timeless Luxury Boutique](https://github.com/AdityaXChaudhary/naksh-jewels-project)
