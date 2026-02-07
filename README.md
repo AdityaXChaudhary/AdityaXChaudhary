@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Mastery
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,docker,html,css,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,docker,java,html,css,git,github,vscode,postman" />
 </div>
 
 ---
